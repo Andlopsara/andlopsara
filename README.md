@@ -1,10 +1,9 @@
+<center>
 # 🌟 ¡Hey, Welcome! 🌟
 
 ### 👋 My name is Andrea López 
-
----
-
-![Separador](https://via.placeholder.com/800x50/4682B4/FFFFFF?text=Sobre+Mí)
+<center>
+![Separador]([https://via.placeholder.com/800x50/4682B4/FFFFFF?text=Sobre+Mí](https://i.pinimg.com/736x/9e/12/1e/9e121e9eafba2e857c89c143fbb99091.jpg))
 
 ### 🎯 Sobre Mí  
 - 💻 Apasionada por la programación y el diseño de aplicaciones.  
