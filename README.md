@@ -1,9 +1,10 @@
-<center>
 # 🌟 ¡Hey, Welcome! 🌟
 
 ### 👋 My name is Andrea López 
-<center>
-![Separador]([https://via.placeholder.com/800x50/4682B4/FFFFFF?text=Sobre+Mí](https://i.pinimg.com/736x/9e/12/1e/9e121e9eafba2e857c89c143fbb99091.jpg))
+
+---
+
+![Separador](https://via.placeholder.com/800x50/4682B4/FFFFFF)
 
 ### 🎯 Sobre Mí  
 - 💻 Apasionada por la programación y el diseño de aplicaciones.  
@@ -12,7 +13,7 @@
 
 ---
 
-![Separador](https://via.placeholder.com/800x50/2E8B57/FFFFFF?text=Proyectos)
+![Separador](https://via.placeholder.com/800x50/2E8B57/FFFFFF)
 
 ### 🛠️ Mis Proyectos  
 Aquí encontrarás algunos de los proyectos en los que he trabajado:  
@@ -22,7 +23,7 @@ Aquí encontrarás algunos de los proyectos en los que he trabajado:
 
 ---
 
-![Separador](https://via.placeholder.com/800x50/DAA520/FFFFFF?text=Contacta+Conmigo)
+![Separador](https://via.placeholder.com/800x50/DAA520/FFFFFF)
 
 ### 🤝 Contacta Conmigo  
 - 📫 **Correo:** [tu.correo@example.com](mailto:tu.correo@example.com)  
